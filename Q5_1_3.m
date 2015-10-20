@@ -18,3 +18,5 @@ zihou=[x500,zero,x500,zero,x500,zero,x1000,x1000d];
 plot(zihou)
 
 playblocking(audioplayer(zihou,fs))
+
+return
